@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Amazon Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created an amazon clone using HTML and css.",
+    url: "https://sarthak1940.github.io/Amazon-clone/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Discord Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created an discord clone using HTML and Tailwind css.",
+    url: "https://sarthak1940.github.io/Discord-clone/",
   },
   {
-    title: "My Resume Site",
+    title: "Weather app website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a weather app which shows real time weather data accurately.",
+    url: "https://github.com/Sarthak1940/Weather-app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a blog website using React which shows multiple blogs.",
+    url: "https://github.com/Sarthak1940/Blog-website",
   },
 ];
 
